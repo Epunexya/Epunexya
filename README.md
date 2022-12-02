@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Epunexya
 - 👀 I’m interested in helicopter
-- 🌱 I’m currently learning too muh language
+- 🌱 I’m currently learning too much language
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me with a 1 meter rule
 <!---
